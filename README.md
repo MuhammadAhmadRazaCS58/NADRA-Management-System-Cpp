@@ -131,12 +131,30 @@ Prevents crashes due to invalid input.
 3. Compile and run `main.cpp`
 
 ---
-## 📸 Project Screenshots
+## 📸 System Portals & Screenshots
 
-### 🛠️ Citizen Portal
-| Login View | Main Dashboard |
-| :---: | :---: |
-| ![Citizen Portal](https://github.com/MuhammadAhmadRazaCS58/NADRA-Management-System-Cpp/tree/fb213639fc261d6a5650490d184254fcfbe53e3b/Admin%20portal%20screenshots) | 
+The system is divided into three distinct portals. Below are the visual representations of each interface.
+
+### 👑 Admin Portal
+*The highest access level, allowing for full CRUD (Create, Read, Update, Delete) operations on citizen records and system configuration.*
+|
+| **Main Dashboard** | ![Admin Screen](https://github.com/MuhammadAhmadRazaCS58/NADRA-Management-System-Cpp/tree/45b7b7a5a02c17569eb4eb9e53710dd7df031bf3/Admin%20portal%20screenshots) |
+
+
+
+### 🛠️ Operator Portal
+*Designed for staff members to handle data entry, verify citizen details, and process CNIC renewals.*
+|
+| **Operator Menu** | ![Operator Dashboard](https://github.com/MuhammadAhmadRazaCS58/NADRA-Management-System-Cpp/tree/45b7b7a5a02c17569eb4eb9e53710dd7df031bf3/Operator%20portal%20screenshots) |
+
+
+### 👤 Citizen Portal
+*A restricted view for citizens to load the database and verify their own registration status.*
+
+
+| **Login Interface** | ![Citizen Login](https://github.com/MuhammadAhmadRazaCS58/NADRA-Management-System-Cpp/tree/45b7b7a5a02c17569eb4eb9e53710dd7df031bf3/Citizen%20portal%20screenshots) |
+
+---
 ---
 ## 🔮 Future Improvements
 
