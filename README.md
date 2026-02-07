@@ -131,7 +131,13 @@ Prevents crashes due to invalid input.
 3. Compile and run `main.cpp`
 
 ---
+## 📸 Project Screenshots
 
+### 🛠️ Citizen Portal
+| Login View | Main Dashboard |
+| :---: | :---: |
+| ![Citizen Portal](https://github.com/MuhammadAhmadRazaCS58/NADRA-Management-System-Cpp/tree/fb213639fc261d6a5650490d184254fcfbe53e3b/Admin%20portal%20screenshots) | 
+---
 ## 🔮 Future Improvements
 
 - Convert structure-based system into full OOP architecture
