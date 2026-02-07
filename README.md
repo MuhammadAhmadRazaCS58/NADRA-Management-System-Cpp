@@ -131,15 +131,6 @@ Prevents crashes due to invalid input.
 3. Compile and run `main.cpp`
 
 ---
-## 📸 Project Screenshots
-
-### 🛠️ Operator Portal
-| Login View | Main Dashboard |
-| :---: | :---: |
-| ![Operator Login](Operator%20portal%20screenshots/operator_login.png) | ![Operator Dashboard](Operator%20portal%20screenshots/operator_dashboard.png) |
-
-> **Note:** Replace `operator_login.png` and `operator_dashboard.png` with the actual file names you have uploaded inside that folder.
----
 
 ## 🔮 Future Improvements
 
